@@ -1,2 +1,2 @@
-# [To Do g-List](https://todog-list.netlify.app)
+# [To Do g-List](https://https://todo-g.netlify.app)
 Projeto tradicional de Lista de Tarefas (todoList).
